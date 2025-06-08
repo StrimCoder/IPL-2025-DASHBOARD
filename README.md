@@ -1,2 +1,15 @@
-# IPL-2025-DASHBOARD
-Designed and developed an interactive IPL 2025 Analytics Dashboard using Python, Streamlit, and Plotly. The dashboard delivers real-time insights on matches, player performances, team stats, and season trends with animated visualizations and dynamic filters. Enabled easy data exploration for cricket fans and analysts.
+# 🏏 IPL 2025 Player & Match Analytics Dashboard
+
+An interactive Python dashboard to visualize player and team performance during IPL 2025 using Streamlit and Plotly.
+
+## 📌 Features
+- Top 10 Run Scorers
+- Top 5 Wicket Takers
+- Team Win Percentage
+- Match-wise Run Trends
+- Clean UI with tabs and side info
+
+## 🛠️ Installation
+```bash
+pip install -r requirements.txt
+streamlit run scripts/app.py
